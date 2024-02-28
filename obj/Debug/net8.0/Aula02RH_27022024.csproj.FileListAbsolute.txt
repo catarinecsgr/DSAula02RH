@@ -1,0 +1,14 @@
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\bin\Debug\net8.0\Aula02RH_27022024.exe
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\bin\Debug\net8.0\Aula02RH_27022024.deps.json
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\bin\Debug\net8.0\Aula02RH_27022024.runtimeconfig.json
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\bin\Debug\net8.0\Aula02RH_27022024.dll
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\bin\Debug\net8.0\Aula02RH_27022024.pdb
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\Aula02RH_27022024.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\Aula02RH_27022024.AssemblyInfoInputs.cache
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\Aula02RH_27022024.AssemblyInfo.cs
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\Aula02RH_27022024.csproj.CoreCompileInputs.cache
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\Aula02RH_27022024.dll
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\refint\Aula02RH_27022024.dll
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\Aula02RH_27022024.pdb
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\Aula02RH_27022024.genruntimeconfig.cache
+D:\2DS_CatarineAisha\DS\Aula02RH_27022024\obj\Debug\net8.0\ref\Aula02RH_27022024.dll
